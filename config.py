@@ -1,0 +1,1 @@
+sample_rate = 8000
